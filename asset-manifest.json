@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webali.github.io/static/css/main.fb3cf585.css",
+    "main.js": "/webali.github.io/static/js/main.92e72451.js",
+    "static/js/787.9539ab58.chunk.js": "/webali.github.io/static/js/787.9539ab58.chunk.js",
+    "index.html": "/webali.github.io/index.html",
+    "main.fb3cf585.css.map": "/webali.github.io/static/css/main.fb3cf585.css.map",
+    "main.92e72451.js.map": "/webali.github.io/static/js/main.92e72451.js.map",
+    "787.9539ab58.chunk.js.map": "/webali.github.io/static/js/787.9539ab58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb3cf585.css",
+    "static/js/main.92e72451.js"
+  ]
+}
